@@ -51,6 +51,7 @@ The application is deployed at the following Heroku Site: https://dashboard.hero
 *  JavaScript
 *  Node JS
 *  npm
+*  Sequelize
 *  Insomnia
 *  MySQL2
 *  Nodemon
