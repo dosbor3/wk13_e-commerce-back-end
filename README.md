@@ -22,18 +22,10 @@ THEN the data for each of these routes is displayed in a formatted JSON
 WHEN I test API POST, PUT, and DELETE routes in Insomnia
 THEN I am able to successfully create, update, and delete data in my database
 
-
-![image]![image]
+## Image of Application 
+![image](https://user-images.githubusercontent.com/40706088/155916419-25366ce1-724f-4ac0-82b2-0dd3d38be8fb.png)
 
  
-
-
-
-
-
-
-![image]![image]
-
 
     
 
@@ -66,6 +58,14 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 Please make sure to update tests as appropriate.  Source code can be found at https://dashboard.heroku.com/apps/wk13-ecommerce-dosbor3
 
-## Video Demonstration of Application
-https://watch.screencastify.com/v/YJLI3K7RPQ1biMmNkbna
+## Video Demonstrations of Application
+
+https://watch.screencastify.com/v/UsKq7imxJME6RjG7DLME
+
+https://watch.screencastify.com/v/h5Oh8xY1kORmUdErVVti
+
+https://watch.screencastify.com/v/EIL4MroLc3OW3cjJOO3o
+
+
+
 
